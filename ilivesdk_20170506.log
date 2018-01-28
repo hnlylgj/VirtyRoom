@@ -1,0 +1,47 @@
+2017-05-06 10:49:17|Key_Procedure|iLiveRoomMgr|setLocalVideoCallBack()
+2017-05-06 10:49:17|Key_Procedure|iLiveRoomMgr|setRemoteVideoCallBack()
+2017-05-06 10:49:17|Key_Procedure|iLiveSDK|initSdk(). appid: 1400019352 accoutType: 8970
+2017-05-06 10:49:17|Key_Procedure|iLiveRoomMgr|setLocalVideoCallBack()
+2017-05-06 10:49:17|Key_Procedure|iLiveRoomMgr|setRemoteVideoCallBack()
+2017-05-06 10:49:17|Warn |iLiveSDK|initSdk again.
+2017-05-06 10:49:19|Key_Procedure|iLiveLoginMgr|iLiveLogin()
+2017-05-06 10:49:21|Key_Procedure|iLiveRoomMgr|setLocalVideoCallBack()
+2017-05-06 10:49:21|Key_Procedure|iLiveRoomMgr|setRemoteVideoCallBack()
+2017-05-06 10:49:21|Warn |iLiveSDK|initSdk again.
+2017-05-06 11:17:06|Key_Procedure|iLiveRoomMgr|setLocalVideoCallBack()
+2017-05-06 11:17:06|Key_Procedure|iLiveRoomMgr|setRemoteVideoCallBack()
+2017-05-06 11:17:06|Key_Procedure|iLiveSDK|initSdk(). appid: 1400019352 accoutType: 8970
+2017-05-06 11:17:06|Key_Procedure|iLiveRoomMgr|setLocalVideoCallBack()
+2017-05-06 11:17:06|Key_Procedure|iLiveRoomMgr|setRemoteVideoCallBack()
+2017-05-06 11:17:06|Warn |iLiveSDK|initSdk again.
+2017-05-06 11:43:36|Key_Procedure|iLiveRoomMgr|setLocalVideoCallBack()
+2017-05-06 11:43:36|Key_Procedure|iLiveRoomMgr|setRemoteVideoCallBack()
+2017-05-06 11:43:37|Key_Procedure|iLiveSDK|initSdk(). appid: 1400019352 accoutType: 8970
+2017-05-06 11:43:37|Key_Procedure|iLiveRoomMgr|setLocalVideoCallBack()
+2017-05-06 11:43:37|Key_Procedure|iLiveRoomMgr|setRemoteVideoCallBack()
+2017-05-06 11:43:37|Warn |iLiveSDK|initSdk again.
+2017-05-06 11:43:53|Key_Procedure|iLiveRoomMgr|setLocalVideoCallBack()
+2017-05-06 11:43:53|Key_Procedure|iLiveRoomMgr|setRemoteVideoCallBack()
+2017-05-06 11:43:53|Key_Procedure|iLiveSDK|initSdk(). appid: 1400019352 accoutType: 8970
+2017-05-06 11:43:53|Key_Procedure|iLiveRoomMgr|setLocalVideoCallBack()
+2017-05-06 11:43:53|Key_Procedure|iLiveRoomMgr|setRemoteVideoCallBack()
+2017-05-06 11:43:53|Warn |iLiveSDK|initSdk again.
+2017-05-06 11:44:12|Key_Procedure|iLiveRoomMgr|setLocalVideoCallBack()
+2017-05-06 11:44:12|Key_Procedure|iLiveRoomMgr|setRemoteVideoCallBack()
+2017-05-06 11:44:12|Key_Procedure|iLiveSDK|initSdk(). appid: 1400019352 accoutType: 8970
+2017-05-06 11:44:12|Key_Procedure|iLiveRoomMgr|setLocalVideoCallBack()
+2017-05-06 11:44:12|Key_Procedure|iLiveRoomMgr|setRemoteVideoCallBack()
+2017-05-06 11:44:12|Warn |iLiveSDK|initSdk again.
+2017-05-06 11:49:43|Key_Procedure|iLiveRoomMgr|setLocalVideoCallBack()
+2017-05-06 11:49:43|Key_Procedure|iLiveRoomMgr|setRemoteVideoCallBack()
+2017-05-06 11:49:45|Key_Procedure|iLiveSDK|initSdk(). appid: 1400019352 accoutType: 8970
+2017-05-06 11:49:47|Key_Procedure|iLiveRoomMgr|setLocalVideoCallBack()
+2017-05-06 11:49:47|Key_Procedure|iLiveRoomMgr|setRemoteVideoCallBack()
+2017-05-06 11:49:47|Warn |iLiveSDK|initSdk again.
+2017-05-06 11:49:50|Key_Procedure|iLiveLoginMgr|iLiveLogin()
+2017-05-06 11:49:52|Key_Procedure|iLiveRoomMgr|setLocalVideoCallBack()
+2017-05-06 11:49:52|Key_Procedure|iLiveRoomMgr|setRemoteVideoCallBack()
+2017-05-06 11:49:52|Warn |iLiveSDK|initSdk again.
+2017-05-06 11:50:44|Error|iLiveRoomMgr|openScreenShare(left,top,right,bottom,fps): AVLocalScreenVideoDevice is NULL.
+2017-05-06 11:50:49|Key_Procedure|iLiveLoginMgr|iLiveLogout()
+2017-05-06 11:50:49|Key_Procedure|iLiveSDK|destroy()

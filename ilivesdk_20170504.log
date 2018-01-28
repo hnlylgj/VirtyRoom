@@ -1,0 +1,76 @@
+2017-05-04 14:13:13|Key_Procedure|iLiveRoomMgr|setLocalVideoCallBack()
+2017-05-04 14:13:13|Key_Procedure|iLiveRoomMgr|setRemoteVideoCallBack()
+2017-05-04 14:13:15|Key_Procedure|iLiveSDK|initSdk(). appid: 1400019352 accoutType: 8970
+2017-05-04 14:13:27|Key_Procedure|iLiveSDK|destroy()
+2017-05-04 14:13:51|Key_Procedure|iLiveRoomMgr|setLocalVideoCallBack()
+2017-05-04 14:13:51|Key_Procedure|iLiveRoomMgr|setRemoteVideoCallBack()
+2017-05-04 14:13:51|Key_Procedure|iLiveSDK|initSdk(). appid: 1400019352 accoutType: 8970
+2017-05-04 14:14:29|Key_Procedure|iLiveSDK|destroy()
+2017-05-04 14:15:09|Key_Procedure|iLiveRoomMgr|setLocalVideoCallBack()
+2017-05-04 14:15:09|Key_Procedure|iLiveRoomMgr|setRemoteVideoCallBack()
+2017-05-04 14:15:09|Key_Procedure|iLiveSDK|initSdk(). appid: 1400019352 accoutType: 8970
+2017-05-04 14:15:35|Key_Procedure|iLiveSDK|destroy()
+2017-05-04 14:20:30|Key_Procedure|iLiveRoomMgr|setLocalVideoCallBack()
+2017-05-04 14:20:30|Key_Procedure|iLiveRoomMgr|setRemoteVideoCallBack()
+2017-05-04 14:20:30|Key_Procedure|iLiveSDK|initSdk(). appid: 1400019352 accoutType: 8970
+2017-05-04 14:21:03|Key_Procedure|iLiveRoomMgr|setLocalVideoCallBack()
+2017-05-04 14:21:03|Key_Procedure|iLiveRoomMgr|setRemoteVideoCallBack()
+2017-05-04 14:21:03|Warn |iLiveSDK|initSdk again.
+2017-05-04 14:21:51|Key_Procedure|iLiveSDK|destroy()
+2017-05-04 14:22:57|Key_Procedure|iLiveRoomMgr|setLocalVideoCallBack()
+2017-05-04 14:22:57|Key_Procedure|iLiveRoomMgr|setRemoteVideoCallBack()
+2017-05-04 14:22:58|Key_Procedure|iLiveSDK|initSdk(). appid: 1400019352 accoutType: 8970
+2017-05-04 14:23:12|Key_Procedure|iLiveRoomMgr|setLocalVideoCallBack()
+2017-05-04 14:23:12|Key_Procedure|iLiveRoomMgr|setRemoteVideoCallBack()
+2017-05-04 14:23:12|Warn |iLiveSDK|initSdk again.
+2017-05-04 14:23:40|Key_Procedure|iLiveSDK|destroy()
+2017-05-04 14:43:18|Key_Procedure|iLiveRoomMgr|setLocalVideoCallBack()
+2017-05-04 14:43:18|Key_Procedure|iLiveRoomMgr|setRemoteVideoCallBack()
+2017-05-04 14:43:18|Key_Procedure|iLiveSDK|initSdk(). appid: 1400019352 accoutType: 8970
+2017-05-04 14:43:43|Error|iLiveLoginMgr|IM login failed. Error: 6012 login failed.
+2017-05-04 14:51:12|Key_Procedure|iLiveRoomMgr|setLocalVideoCallBack()
+2017-05-04 14:51:12|Key_Procedure|iLiveRoomMgr|setRemoteVideoCallBack()
+2017-05-04 14:51:13|Key_Procedure|iLiveSDK|initSdk(). appid: 1400019352 accoutType: 8970
+2017-05-04 14:51:42|Error|iLiveLoginMgr|IM login failed. Error: 6012 login failed.
+2017-05-04 14:51:59|Key_Procedure|iLiveRoomMgr|setLocalVideoCallBack()
+2017-05-04 14:51:59|Key_Procedure|iLiveRoomMgr|setRemoteVideoCallBack()
+2017-05-04 14:51:59|Warn |iLiveSDK|initSdk again.
+2017-05-04 14:53:22|Error|iLiveLoginMgr|IM login failed. Error: 6012 login failed.
+2017-05-04 14:53:45|Key_Procedure|iLiveSDK|destroy()
+2017-05-04 15:03:48|Key_Procedure|iLiveRoomMgr|setLocalVideoCallBack()
+2017-05-04 15:03:48|Key_Procedure|iLiveRoomMgr|setRemoteVideoCallBack()
+2017-05-04 15:03:48|Key_Procedure|iLiveSDK|initSdk(). appid: 1400019352 accoutType: 8970
+2017-05-04 15:03:58|Error|iLiveLoginMgr|IM login failed. Error: 6012 login failed.
+2017-05-04 15:04:03|Key_Procedure|iLiveRoomMgr|setLocalVideoCallBack()
+2017-05-04 15:04:03|Key_Procedure|iLiveRoomMgr|setRemoteVideoCallBack()
+2017-05-04 15:04:03|Warn |iLiveSDK|initSdk again.
+2017-05-04 15:04:26|Error|iLiveLoginMgr|IM login failed. Error: 6012 login failed.
+2017-05-04 15:04:45|Error|iLiveLoginMgr|IM login failed. Error: 6012 login failed.
+2017-05-04 15:05:27|Error|iLiveLoginMgr|IM login failed. Error: 6012 login failed.
+2017-05-04 15:05:30|Key_Procedure|iLiveSDK|destroy()
+2017-05-04 15:08:55|Key_Procedure|iLiveRoomMgr|setLocalVideoCallBack()
+2017-05-04 15:08:55|Key_Procedure|iLiveRoomMgr|setRemoteVideoCallBack()
+2017-05-04 15:08:55|Key_Procedure|iLiveSDK|initSdk(). appid: 1400019352 accoutType: 8970
+2017-05-04 15:09:03|Key_Procedure|iLiveRoomMgr|setLocalVideoCallBack()
+2017-05-04 15:09:03|Key_Procedure|iLiveRoomMgr|setRemoteVideoCallBack()
+2017-05-04 15:09:03|Warn |iLiveSDK|initSdk again.
+2017-05-04 15:09:20|Error|iLiveLoginMgr|IM login failed. Error: 6012 login failed.
+2017-05-04 15:10:14|Error|iLiveLoginMgr|IM login failed. Error: 6012 login failed.
+2017-05-04 15:10:18|Key_Procedure|iLiveSDK|destroy()
+2017-05-04 15:13:13|Key_Procedure|iLiveRoomMgr|setLocalVideoCallBack()
+2017-05-04 15:13:13|Key_Procedure|iLiveRoomMgr|setRemoteVideoCallBack()
+2017-05-04 15:13:13|Key_Procedure|iLiveSDK|initSdk(). appid: 1400019352 accoutType: 8970
+2017-05-04 15:13:16|Key_Procedure|iLiveRoomMgr|setLocalVideoCallBack()
+2017-05-04 15:13:16|Key_Procedure|iLiveRoomMgr|setRemoteVideoCallBack()
+2017-05-04 15:13:16|Warn |iLiveSDK|initSdk again.
+2017-05-04 15:13:58|Error|iLiveLoginMgr|IM login failed. Error: 6012 login failed.
+2017-05-04 15:14:32|Error|iLiveLoginMgr|IM login failed. Error: 6012 login failed.
+2017-05-04 15:14:37|Key_Procedure|iLiveSDK|destroy()
+2017-05-04 15:18:01|Key_Procedure|iLiveRoomMgr|setLocalVideoCallBack()
+2017-05-04 15:18:01|Key_Procedure|iLiveRoomMgr|setRemoteVideoCallBack()
+2017-05-04 15:18:01|Key_Procedure|iLiveSDK|initSdk(). appid: 1400019352 accoutType: 8970
+2017-05-04 15:18:05|Key_Procedure|iLiveRoomMgr|setLocalVideoCallBack()
+2017-05-04 15:18:05|Key_Procedure|iLiveRoomMgr|setRemoteVideoCallBack()
+2017-05-04 15:18:05|Warn |iLiveSDK|initSdk again.
+2017-05-04 15:18:16|Error|iLiveLoginMgr|IM login failed. Error: 6012 login failed.
+2017-05-04 15:18:22|Key_Procedure|iLiveSDK|destroy()

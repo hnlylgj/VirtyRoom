@@ -1,0 +1,71 @@
+
+************************************************************************************************************************************************
+Start to print log. Process ID[3524]
+Time                    | L | Thread       | Module  | Source File:Line:Function                                          | Content
+2017/05/06 10:49:19.406| E| 1324 | Client | av_context_impl.cpp(372):Start                    | SDK Version = 1.8.5.3.OpenSDK_1.8.5.3:22996(25493507).
+2017/05/06 10:49:19.406| E| 1324 | Client | av_context_impl.cpp(375):Start                    | Server Environment Type = Publish Env.
+2017/05/06 10:49:19.406| E| 1324 | Client | av_context_impl.cpp(394):Start                    | AVContext::Start():sdk_app_id=1400019352, account_type=8970, app_id_at3rd=1400019352, identifier=lgj1, engine_ctrl_type=1
+2017/05/06 10:49:19.406| E| 1324 | Client | av_context_impl.cpp(397):Start                    | Platform: Windows.
+2017/05/06 10:49:19.406| E| 1324 | Client | av_node_record_impl.cpp(657):ResetNodeInfo        | AVNODERECORD ResetNodeInfo. PathStartContext(1000).
+2017/05/06 10:49:19.406| E| 1324 | Client | av_node_record_impl.cpp(762):RecordNodeInfo       | AVNODERECORD RecordNodeInfo. PathStartContext(1000). node = 1000, time = 10:49:19.406, ret_code = 0.
+2017/05/06 10:49:19.406| E| 1324 | Client | av_audio_ctrl_impl.cpp(30):AVAudioCtrlImpl        | AVAudioCtrlImpl::AVAudioCtrlImpl
+2017/05/06 10:49:19.406| E| 1324 | Client | av_video_ctrl_impl.cpp(114):AVVideoCtrlImpl       | AVVideoCtrlImpl::AVVideoCtrlImpl
+2017/05/06 10:49:19.406| E| 1324 | Client | av_context_impl.cpp(436):Start                    | AVContext::Start()...
+2017/05/06 10:49:19.406| E| 1324 | Client | av_cloud_spear_engine_ctrl_impl.cpp(122):TryUpdate| AVCloudSpearEngineCtrl::TryUpdateParamOnlyOnce()...
+2017/05/06 10:49:19.406| E| 1324 | CmdCode| IMChannelImpl.cpp(57):Init                        | IMChannel::Init()...
+2017/05/06 10:49:19.406| E| 1324 | Client | av_node_record_impl.cpp(762):RecordNodeInfo       | AVNODERECORD RecordNodeInfo. PathStartContext(1000). node = 1300, time = 10:49:19.406, ret_code = 0.
+2017/05/06 10:49:19.406| E| 2604 | Client | av_node_record_impl.cpp(762):RecordNodeInfo       | AVNODERECORD RecordNodeInfo. PathStartContext(1000). node = 1400, time = 10:49:19.406, ret_code = 0.
+2017/05/06 10:49:19.406| E| 2604 | CmdCode| IMChannelImpl.cpp(122):OnInitComplete             | IMChannel::Init() complete:result=0, error_info=
+2017/05/06 10:49:19.421| E| 2548 | Client | av_node_record_impl.cpp(762):RecordNodeInfo       | AVNODERECORD RecordNodeInfo. PathStartContext(1000). node = 1100, time = 10:49:19.421, ret_code = 0.
+2017/05/06 10:49:19.421| E| 2548 | Client | av_avcontrol_config.cpp(644):ConvertAVConfigFromJs| OnReadComplete json string:{"data":{"biz_id":1400019352,"conf":{"index0":{"audio":{"aec":0,"agc":0,"ans":0,"anti_dropout":0,"au_scheme":1,"channel":2,"codec_prof":4106,"frame":40,"kbps":24,"max_antishake_max":1000,"max_antishake_min":400,"min_antishake":120,"sample_rate":48000,"silence_detect":0},"is_default":1,"net":{"rc_anti_dropout":1,"rc_init_delay":1000,"rc_max_delay":2000},"role":"user","type":0,"video":{"anti_dropout":0,"codec_prof":5,"format":2,"format_fix_height":480,"format_fix_width":640,"format_max_height":-1,"format_max_width":-1,"fps":15,"fqueue_time":5,"live_adapt":1,"maxkbps":800,"maxqp":42,"minkbps":800,"minqp":25,"qclear":1,"small_video_upload":0}},"index1":{"audio":{"aec":1,"agc":0,"ans":1,"anti_dropout":0,"au_scheme":1,"channel":2,"codec_prof":4106,"frame":40,"kbps":24,"max_antishake_max":1000,"max_antishake_min":400,"min_antishake":120,"sample_rate":48000,"silence_detect":0},"is_default":0,"ne2017/05/06 10:49:19.421| E| 2548 | Client | av_avcontrol_config.cpp(645):ConvertAVConfigFromJs| 
+2017/05/06 10:49:19.452| E| 2548 | Client | av_avcontrol_config.cpp(393):UpdateInternal       | http://conf.voice.qcloud.com/index.php?sdk_appid=1400019352&sdk_version=115&interface=Voice_Conf_Download&identifier=lgj1&last_update_sequence=147&platform=0
+2017/05/06 10:49:19.452| E| 2548 | Client | av_node_record_impl.cp
+************************************************************************************************************************************************
+Start to print log. Process ID[3192]
+Time                    | L | Thread       | Module  | Source File:Line:Function                                          | Content
+2017/05/06 11:49:49.886| E| 2312 | Client | av_context_impl.cpp(372):Start                    | SDK Version = 1.8.5.3.OpenSDK_1.8.5.3:22996(25493507).
+2017/05/06 11:49:49.886| E| 2312 | Client | av_context_impl.cpp(375):Start                    | Server Environment Type = Publish Env.
+2017/05/06 11:49:49.886| E| 2312 | Client | av_context_impl.cpp(394):Start                    | AVContext::Start():sdk_app_id=1400019352, account_type=8970, app_id_at3rd=1400019352, identifier=lgj1, engine_ctrl_type=1
+2017/05/06 11:49:49.886| E| 2312 | Client | av_context_impl.cpp(397):Start                    | Platform: Windows.
+2017/05/06 11:49:49.902| E| 2312 | Client | av_node_record_impl.cpp(657):ResetNodeInfo        | AVNODERECORD ResetNodeInfo. PathStartContext(1000).
+2017/05/06 11:49:49.902| E| 2312 | Client | av_node_record_impl.cpp(762):RecordNodeInfo       | AVNODERECORD RecordNodeInfo. PathStartContext(1000). node = 1000, time = 11:49:49.902, ret_code = 0.
+2017/05/06 11:49:49.902| E| 2312 | Client | av_audio_ctrl_impl.cpp(30):AVAudioCtrlImpl        | AVAudioCtrlImpl::AVAudioCtrlImpl
+2017/05/06 11:49:49.902| E| 2312 | Client | av_video_ctrl_impl.cpp(114):AVVideoCtrlImpl       | AVVideoCtrlImpl::AVVideoCtrlImpl
+2017/05/06 11:49:49.917| E| 2312 | Client | av_context_impl.cpp(436):Start                    | AVContext::Start()...
+2017/05/06 11:49:49.933| E| 2312 | Client | av_cloud_spear_engine_ctrl_impl.cpp(122):TryUpdate| AVCloudSpearEngineCtrl::TryUpdateParamOnlyOnce()...
+2017/05/06 11:49:49.964| E| 2312 | CmdCode| imchannelimpl.cpp(57):Init                        | IMChannel::Init()...
+2017/05/06 11:49:49.964| E| 2312 | Client | av_node_record_impl.cpp(762):RecordNodeInfo       | AVNODERECORD RecordNodeInfo. PathStartContext(1000). node = 1300, time = 11:49:49.964, ret_code = 0.
+2017/05/06 11:49:49.964| E| 748  | Client | av_node_record_impl.cpp(762):RecordNodeInfo       | AVNODERECORD RecordNodeInfo. PathStartContext(1000). node = 1400, time = 11:49:49.964, ret_code = 0.
+2017/05/06 11:49:49.964| E| 748  | CmdCode| imchannelimpl.cpp(122):OnInitComplete             | IMChannel::Init() complete:result=0, error_info=
+2017/05/06 11:49:49.980| E| 3856 | Client | av_node_record_impl.cpp(762):RecordNodeInfo       | AVNODERECORD RecordNodeInfo. PathStartContext(1000). node = 1100, time = 11:49:49.980, ret_code = 0.
+2017/05/06 11:49:49.995| E| 3856 | Client | av_avcontrol_config.cpp(393):UpdateInternal       | http://conf.voice.qcloud.com/index.php?sdk_appid=1400019352&sdk_version=115&interface=Voice_Conf_Download&identifier=lgj1&platform=0
+2017/05/06 11:49:49.995| E| 3856 | Client | av_node_record_impl.cpp(762):RecordNodeInfo       | AVNODERECORD RecordNodeInfo. PathStartContext(1000). node = 1101, time = 11:49:49.995, ret_code = 0.
+2017/05/06 11:49:50.323| E| 3856 | Client | av_avcontrol_config.cpp(514):OnDownloadComplete   | OnDownloadComplete http response ok
+2017/05/06 11:49:50.323| E| 3856 | Client | av_avcontrol_config.cpp(528):OnDownloadComplete   | OnDownloadComplete json string:{"data":{"biz_id":1400019352,"conf":[{"audio":{"aec":0,"agc":0,"ans":0,"anti_dropout":0,"au_scheme":1,"channel":2,"codec_prof":4106,"frame":40,"kbps":24,"max_antishake_max":1000,"max_antishake_min":400,"min_antishake":120,"sample_rate":48000,"silence_detect":0},"is_default":1,"net":{"rc_anti_dropout":1,"rc_init_delay":1000,"rc_max_delay":2000},"role":"user","type":0,"video":{"anti_dropout":0,"codec_prof":5,"format":2,"format_fix_height":480,"format_fix_width":640,"format_max_height":-1,"format_max_width":-1,"fps":15,"fqueue_time":5,"live_adapt":1,"maxkbps":800,"maxqp":42,"minkbps":800,"minqp":25,"qclear":1,"small_video_upload":0}},{"audio":{"aec":1,"agc":0,"ans":1,"anti_dropout":0,"au_scheme":1,"channel":2,"codec_prof":4106,"frame":40,"kbps":24,"max_antishake_max":1000,"max_antishake_min":400,"min_antishake":120,"sample_rate":48000,"silence_detect":0},"is_default":0,"net":{"rc_anti_d2017/05/06 11:49:50.323| E| 3856 | Client | av_avcontrol_config.cpp(529):OnDownloadComplete   | 
+2017/05/06 11:49:50.416| E| 3856 | Client | av_node_record_impl.cpp(762):RecordNodeInfo       | AVNODERECORD RecordNodeInfo. PathStartContext(1000). node = 1102, time = 11:49:50.416, ret_code = 0.
+2017/05/06 11:49:50.416| E| 748  | AVGSDK | av_context_start_win.cpp(62):OnUpdateParamComplete| AVCloudSpearEngineCtrl::TryUpdateParamOnlyOnce() complete:result=513, error_info=
+2017/05/06 11:49:50.416| E| 748  | Client | av_node_record_impl.cpp(762):RecordNodeInfo       | AVNODERECORD RecordNodeInfo. PathStartContext(1000). node = 1200, time = 11:49:50.416, ret_code = 1.
+2017/05/06 11:49:50.416| E| 748  | Client | av_context_impl.cpp(451):OnStartComplete          | AVContext::Start() complete:result=0, error_info=
+2017/05/06 11:49:50.432| E| 748  | Client | av_node_record_impl.cpp(762):RecordNodeInfo       | AVNODERECORD RecordNodeInfo. PathStartContext(1000). node = 1999, time = 11:49:50.432, ret_code = 0.
+2017/05/06 11:49:50.432| E| 748  | Client | av_node_record_impl.cpp(199):PrintPathInfo        | AVNODERECORD PathStartContext(1000). Time. start = 11:49:49.902, read_web_config_start = 11:49:49.980, send_update_cmd_start = 11:49:49.995, send_update_cmd_end = 11:49:50.416, process_updated_web_config_end = 11:49:50.416, net_channel_init_start = 11:49:49.964, net_channel_init_end = 11:49:49.964, end = 11:49:50.432.
+2017/05/06 11:49:50.432| E| 748  | Client | av_node_record_impl.cpp(203):PrintPathInfo        | AVNODERECORD PathStartContext(1000). TimeConsuming. total =  530, process_web_config =  436(send_update_cmd =  421) || net_channel_init =    0.
+2017/05/06 11:49:50.432| E| 748  | Client | av_node_record_impl.cpp(210):PrintPathInfo        | AVNODERECORD PathStartContext(1000). RetCode. ERROR!!! start = 0, read_web_config_start = 0, send_update_cmd_start = 0, send_update_cmd_end = 0, process_updated_web_config_end = 1, net_channel_init_start = 0, net_channel_init_end = 0, end = 0.
+2017/05/06 11:49:50.432| E| 748  | CmdCode| avgenvparam.cpp(53):AVGAPI_SetSDKEnv              | AVGAPI_SetSDKEnv Uin=144115199234038363, Type=5, Ver=25493507, DataDir=C:\MyProjects\suixinbo\sample\Debug\, Uselevel=1
+2017/05/06 11:50:49.346| E| 748  | Client | av_audio_ctrl_impl.cpp(41):~AVAudioCtrlImpl       | AVAudioCtrlImpl::~AVAudioCtrlImpl
+2017/05/06 11:50:49.346| E| 748  | Client | av_video_ctrl_impl.cpp(157):~AVVideoCtrlImpl      | AVVideoCtrlImpl::~AVVideoCtrlImpl
+2017/05/06 11:50:49.346| E| 748  | Client | av_node_record_impl.cpp(657):ResetNodeInfo        | AVNODERECORD ResetNodeInfo. PathStopContext(50000).
+2017/05/06 11:50:49.346| E| 748  | Client | av_node_record_impl.cpp(762):RecordNodeInfo       | AVNODERECORD RecordNodeInfo. PathStopContext(50000). node = 50000, time = 11:50:49.346, ret_code = 0.
+2017/05/06 11:50:49.346| E| 748  | Client | av_node_record_impl.cpp(762):RecordNodeInfo       | AVNODERECORD RecordNodeInfo. PathStopContext(50000). node = 59999, time = 11:50:49.346, ret_code = 0.
+2017/05/06 11:50:49.346| E| 748  | Client | av_node_record_impl.cpp(505):PrintPathInfo        | AVNODERECORD PathStopContext(50000). Time. start = 11:50:49.346, end = 11:50:49.346.
+2017/05/06 11:50:49.346| E| 748  | Client | av_node_record_impl.cpp(509):PrintPathInfo        | AVNODERECORD PathStopContext(50000). TimeConsuming. total =    0.
+2017/05/06 11:50:49.346| E| 748  | Client | av_node_record_impl.cpp(513):PrintPathInfo        | AVNODERECORD PathStopContext(50000). RetCode. start = 0, end = 0.
+2017/05/06 11:50:49.346| E| 748  | Client | av_node_report_impl.cpp(1050):SavePartSDKCur      | AVNODEREPORT AVREPORT SavePartSDKCur.
+2017/05/06 11:50:49.346| E| 748  | Client | av_node_record_impl.cpp(540):PrintBasicInfo       | AVNODEREPORT BasicInfo. sdk_version_s = 1.8.5.3.OpenSDK_1.8.5.3:22996, sdk_version_i = 25493507, device_name = , hardware=, os_type = 3, os_version = , cpu_score = 0, sdk_app_id = 1400019352, app_id_at3rd = 1400019352, account_type = 8970, identifier = lgj1, tiny_id = 0.
+2017/05/06 11:50:49.346| E| 748  | Client | av_node_record_impl.cpp(199):PrintPathInfo        | AVNODEREPORT PathStartContext(1000). Time. start = 11:49:49.902, read_web_config_start = 11:49:49.980, send_update_cmd_start = 11:49:49.995, send_update_cmd_end = 11:49:50.416, process_updated_web_config_end = 11:49:50.416, net_channel_init_start = 11:49:49.964, net_channel_init_end = 11:49:49.964, end = 11:49:50.432.
+2017/05/06 11:50:49.346| E| 748  | Client | av_node_record_impl.cpp(203):PrintPathInfo        | AVNODEREPORT PathStartContext(1000). TimeConsuming. total =  530, process_web_config =  436(send_update_cmd =  421) || net_channel_init =    0.
+2017/05/06 11:50:49.346| E| 748  | Client | av_node_record_impl.cpp(210):PrintPathInfo        | AVNODEREPORT PathStartContext(1000). RetCode. ERROR!!! start = 0, read_web_config_start = 0, send_update_cmd_start = 0, send_update_cmd_end = 0, process_updated_web_config_end = 1, net_channel_init_start = 0, net_channel_init_end = 0, end = 0.
+2017/05/06 11:50:49.346| E| 748  | Client | av_node_record_impl.cpp(505):PrintPathInfo        | AVNODEREPORT PathStopContext(50000). Time. start = 11:50:49.346, end = 11:50:49.346.
+2017/05/06 11:50:49.346| E| 748  | Client | av_node_record_impl.cpp(509):PrintPathInfo        | AVNODEREPORT PathStopContext(50000). TimeConsuming. total =    0.
+2017/05/06 11:50:49.346| E| 748  | Client | av_node_record_impl.cpp(513):PrintPathInfo        | AVNODEREPORT PathStopContext(50000). RetCode. start = 0, end = 0.
+2017/05/06 11:50:49.346| E| 748  | Client | av_node_report_impl.cpp(789):ConvertToPBPartSDKCur| =Q=, appVersion = , audiosend = 0, audiorecv = 0, encdoer = 0, decoder = 0
+2017/05/06 11:50:49.658| E| 748  | Client | av_context_impl.cpp(226):~AVContextImpl           | AVContextImpl::~AVContextImpl

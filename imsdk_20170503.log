@@ -1,0 +1,349 @@
+[2017-5-3 13:22:0:331][ERROR][http_conn.cc:106][imcore::on_resolved]error: -3008 desc: EAI_NONAME
+[2017-5-3 13:22:0:346][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -3008 desc: EAI_NONAME
+[2017-5-3 13:22:0:346][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 13:31:15:438][ERROR][http_conn.cc:106][imcore::on_resolved]error: -3008 desc: EAI_NONAME
+[2017-5-3 13:31:15:438][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -3008 desc: EAI_NONAME
+[2017-5-3 13:31:15:438][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 13:32:46:342][ERROR][http_conn.cc:106][imcore::on_resolved]error: -3008 desc: EAI_NONAME
+[2017-5-3 13:32:46:342][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -3008 desc: EAI_NONAME
+[2017-5-3 13:32:46:342][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 13:33:46:844][ERROR][http_conn.cc:106][imcore::on_resolved]error: -3008 desc: EAI_NONAME
+[2017-5-3 13:33:46:844][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -3008 desc: EAI_NONAME
+[2017-5-3 13:33:46:844][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 13:34:41:309][ERROR][http_conn.cc:106][imcore::on_resolved]error: -3008 desc: EAI_NONAME
+[2017-5-3 13:34:41:309][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -3008 desc: EAI_NONAME
+[2017-5-3 13:34:41:309][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 13:35:22:21][ERROR][http_conn.cc:106][imcore::on_resolved]error: -3008 desc: EAI_NONAME
+[2017-5-3 13:35:22:21][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -3008 desc: EAI_NONAME
+[2017-5-3 13:35:22:21][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 13:36:20:567][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 13:36:20:567][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 13:36:20:567][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-3 13:36:20:692][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 13:36:20:692][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 13:36:20:692][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-3 13:36:20:817][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 13:36:20:817][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 13:36:20:817][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-3 13:36:20:941][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 13:36:20:941][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 13:36:20:941][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-3 13:36:21:82][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 13:36:21:82][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 13:36:21:82][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-3 13:36:21:207][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 13:36:21:207][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 13:36:21:207][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-3 13:36:21:331][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 13:36:21:331][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 13:36:21:331][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-3 13:36:21:503][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 13:36:21:503][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 13:36:21:503][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-3 13:36:21:628][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 13:36:21:628][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 13:36:21:628][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-3 13:36:21:768][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 13:36:21:768][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 13:36:21:768][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-3 13:36:21:893][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 13:36:21:893][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 13:36:21:893][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-3 13:36:22:18][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 13:36:22:18][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 13:36:22:18][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-3 13:36:22:143][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 13:36:22:143][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 13:36:22:143][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-3 13:36:22:267][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 13:36:22:267][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 13:36:22:267][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-3 13:36:22:392][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 13:36:22:392][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 13:36:22:392][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-3 13:36:22:517][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 13:36:22:517][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 13:36:22:517][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-3 13:36:22:642][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 13:36:22:642][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 13:36:22:642][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-3 13:36:22:782][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 13:36:22:782][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 13:36:22:782][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-3 13:36:22:907][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 13:36:22:907][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 13:36:22:907][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-3 13:36:23:32][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 13:36:23:32][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 13:36:23:32][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-3 13:36:23:157][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 13:36:23:157][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 13:36:23:157][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-3 13:36:23:281][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 13:36:23:281][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 13:36:23:281][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-3 13:36:23:422][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 13:36:23:422][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 13:36:23:422][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-3 13:36:23:547][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 13:36:23:547][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 13:36:23:547][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-3 13:36:23:687][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 13:36:23:687][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 13:36:23:703][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-3 13:36:23:812][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 13:36:23:812][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 13:36:23:812][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-3 13:36:23:952][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 13:36:23:952][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 13:36:23:952][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-3 13:36:24:77][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 13:36:24:77][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 13:36:24:77][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-3 13:36:24:217][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 13:36:24:217][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 13:36:24:217][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-3 13:36:24:358][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 13:36:24:358][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 13:36:24:358][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-3 13:36:24:498][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 13:36:24:498][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 13:36:24:498][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-3 13:36:24:623][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 13:36:24:623][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 13:36:24:623][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-3 13:36:24:748][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 13:36:24:748][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 13:36:24:748][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-3 13:36:24:873][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 13:36:24:873][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 13:36:24:873][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-3 13:36:24:997][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 13:36:24:997][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 13:36:24:997][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-3 13:36:25:138][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 13:36:25:138][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 13:36:25:138][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-3 13:36:25:263][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 13:36:25:263][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 13:36:25:263][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-3 13:36:25:387][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 13:36:25:387][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 13:36:25:387][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-3 13:36:25:528][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 13:36:25:528][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 13:36:25:528][ERROR][sso_conn.cc:269][imcore::SSOConn::SendRemained]timeoutreq cmd: openim.pbsdkinit_emp|seq: 18940|now: 7468330|deadline: 7468299
+[2017-5-3 13:36:25:528][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-3 13:37:49:539][ERROR][http_conn.cc:106][imcore::on_resolved]error: -3008 desc: EAI_NONAME
+[2017-5-3 13:37:49:539][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -3008 desc: EAI_NONAME
+[2017-5-3 13:37:49:539][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 13:38:1:450][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 13:38:1:450][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 13:38:1:450][ERROR][sso_conn.cc:269][imcore::SSOConn::SendRemained]timeoutreq cmd: openim.pbsdkinit_emp|seq: 2115|now: 7564263|deadline: 7560218
+[2017-5-3 13:39:7:844][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-3 13:52:57:10][ERROR][http_conn.cc:106][imcore::on_resolved]error: -3008 desc: EAI_NONAME
+[2017-5-3 13:52:57:10][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -3008 desc: EAI_NONAME
+[2017-5-3 13:52:57:10][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 13:53:8:538][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 13:53:8:538][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 13:53:8:538][ERROR][sso_conn.cc:269][imcore::SSOConn::SendRemained]timeoutreq cmd: openim.pbsdkinit_emp|seq: 7972|now: 8471353|deadline: 8467819
+[2017-5-3 13:53:44:122][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-3 13:58:58:911][ERROR][http_conn.cc:106][imcore::on_resolved]error: -3008 desc: EAI_NONAME
+[2017-5-3 13:58:58:911][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -3008 desc: EAI_NONAME
+[2017-5-3 13:58:58:927][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 14:0:14:611][ERROR][http_conn.cc:106][imcore::on_resolved]error: -3008 desc: EAI_NONAME
+[2017-5-3 14:0:14:616][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -3008 desc: EAI_NONAME
+[2017-5-3 14:0:14:617][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 14:1:23:778][ERROR][http_conn.cc:106][imcore::on_resolved]error: -3008 desc: EAI_NONAME
+[2017-5-3 14:1:23:778][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -3008 desc: EAI_NONAME
+[2017-5-3 14:1:23:778][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 14:6:17:724][ERROR][http_conn.cc:106][imcore::on_resolved]error: -3008 desc: EAI_NONAME
+[2017-5-3 14:6:17:724][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -3008 desc: EAI_NONAME
+[2017-5-3 14:6:17:724][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 14:8:35:764][ERROR][http_conn.cc:106][imcore::on_resolved]error: -3008 desc: EAI_NONAME
+[2017-5-3 14:8:35:764][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -3008 desc: EAI_NONAME
+[2017-5-3 14:8:35:780][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 14:12:9:962][ERROR][http_conn.cc:106][imcore::on_resolved]error: -3008 desc: EAI_NONAME
+[2017-5-3 14:12:9:977][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -3008 desc: EAI_NONAME
+[2017-5-3 14:12:9:977][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 14:14:25:927][ERROR][http_conn.cc:106][imcore::on_resolved]error: -3008 desc: EAI_NONAME
+[2017-5-3 14:14:25:927][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -3008 desc: EAI_NONAME
+[2017-5-3 14:14:25:927][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 14:14:44:817][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 14:14:44:817][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 14:14:44:817][ERROR][sso_conn.cc:269][imcore::SSOConn::SendRemained]timeoutreq cmd: openim.pbsdkinit_emp|seq: 12458|now: 9767617|deadline: 9756079
+[2017-5-3 14:14:57:437][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-3 14:16:11:661][ERROR][http_conn.cc:106][imcore::on_resolved]error: -3008 desc: EAI_NONAME
+[2017-5-3 14:16:11:661][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -3008 desc: EAI_NONAME
+[2017-5-3 14:16:11:661][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 14:16:37:216][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 14:16:37:231][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 14:16:37:231][ERROR][sso_conn.cc:269][imcore::SSOConn::SendRemained]timeoutreq cmd: openim.pbsdkinit_emp|seq: 24399|now: 9880028|deadline: 9861584
+[2017-5-3 14:18:22:679][ERROR][http_conn.cc:106][imcore::on_resolved]error: -3008 desc: EAI_NONAME
+[2017-5-3 14:18:22:679][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -3008 desc: EAI_NONAME
+[2017-5-3 14:18:22:679][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 14:18:58:861][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 14:18:58:861][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 14:18:58:861][ERROR][sso_conn.cc:269][imcore::SSOConn::SendRemained]timeoutreq cmd: openim.pbsdkinit_emp|seq: 27068|now: 10021683|deadline: 9993699
+[2017-5-3 14:19:41:745][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-3 14:21:40:733][ERROR][http_conn.cc:106][imcore::on_resolved]error: -3008 desc: EAI_NONAME
+[2017-5-3 14:21:40:733][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -3008 desc: EAI_NONAME
+[2017-5-3 14:21:40:733][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 14:22:35:150][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 14:22:35:150][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 14:22:35:150][ERROR][sso_conn.cc:269][imcore::SSOConn::SendRemained]timeoutreq cmd: openim.pbsdkinit_emp|seq: 29842|now: 10237955|deadline: 10191823
+[2017-5-3 14:22:57:530][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-3 14:25:5:910][ERROR][http_conn.cc:106][imcore::on_resolved]error: -3008 desc: EAI_NONAME
+[2017-5-3 14:25:5:910][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -3008 desc: EAI_NONAME
+[2017-5-3 14:25:5:910][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 14:26:7:237][ERROR][http_conn.cc:106][imcore::on_resolved]error: -3008 desc: EAI_NONAME
+[2017-5-3 14:26:7:237][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -3008 desc: EAI_NONAME
+[2017-5-3 14:26:7:237][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 14:29:0:212][ERROR][http_conn.cc:106][imcore::on_resolved]error: -3008 desc: EAI_NONAME
+[2017-5-3 14:29:0:214][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -3008 desc: EAI_NONAME
+[2017-5-3 14:29:0:218][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 14:29:26:229][ERROR][http_conn.cc:106][imcore::on_resolved]error: -3008 desc: EAI_NONAME
+[2017-5-3 14:29:26:229][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -3008 desc: EAI_NONAME
+[2017-5-3 14:29:26:229][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 14:30:21:192][ERROR][http_conn.cc:106][imcore::on_resolved]error: -3008 desc: EAI_NONAME
+[2017-5-3 14:30:21:208][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -3008 desc: EAI_NONAME
+[2017-5-3 14:30:21:208][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 14:30:40:989][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 14:30:40:989][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 14:30:40:989][ERROR][sso_conn.cc:269][imcore::SSOConn::SendRemained]timeoutreq cmd: openim.pbsdkinit_emp|seq: 80|now: 10723795|deadline: 10711122
+[2017-5-3 14:30:53:547][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-3 14:31:50:218][ERROR][http_conn.cc:106][imcore::on_resolved]error: -3008 desc: EAI_NONAME
+[2017-5-3 14:31:50:221][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -3008 desc: EAI_NONAME
+[2017-5-3 14:31:50:225][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 14:32:2:687][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 14:32:2:687][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 14:32:2:687][ERROR][sso_conn.cc:269][imcore::SSOConn::SendRemained]timeoutreq cmd: openim.pbsdkinit_emp|seq: 23391|now: 10805501|deadline: 10800752
+[2017-5-3 14:33:51:921][ERROR][http_conn.cc:106][imcore::on_resolved]error: -3008 desc: EAI_NONAME
+[2017-5-3 14:33:51:922][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -3008 desc: EAI_NONAME
+[2017-5-3 14:33:51:923][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 14:34:11:781][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 14:34:11:781][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 14:34:11:781][ERROR][sso_conn.cc:269][imcore::SSOConn::SendRemained]timeoutreq cmd: openim.pbsdkinit_emp|seq: 26380|now: 10934592|deadline: 10921799
+[2017-5-3 14:34:34:417][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-3 14:36:21:694][ERROR][http_conn.cc:106][imcore::on_resolved]error: -3008 desc: EAI_NONAME
+[2017-5-3 14:36:21:694][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -3008 desc: EAI_NONAME
+[2017-5-3 14:36:21:694][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 14:36:37:470][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 14:36:37:470][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 14:36:37:470][ERROR][sso_conn.cc:269][imcore::SSOConn::SendRemained]timeoutreq cmd: openim.pbsdkinit_emp|seq: 13329|now: 11080279|deadline: 11071774
+[2017-5-3 14:37:24:972][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-3 14:40:33:537][ERROR][http_conn.cc:106][imcore::on_resolved]error: -3008 desc: EAI_NONAME
+[2017-5-3 14:40:33:538][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -3008 desc: EAI_NONAME
+[2017-5-3 14:40:33:547][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 14:40:53:215][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 14:40:53:215][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 14:40:53:215][ERROR][sso_conn.cc:269][imcore::SSOConn::SendRemained]timeoutreq cmd: openim.pbsdkinit_emp|seq: 3200|now: 11336020|deadline: 11332220
+[2017-5-3 14:40:53:215][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-3 15:16:20:336][ERROR][http_conn.cc:47][imcore::read_cb]error: -4095 desc: EOF
+[2017-5-3 15:16:20:336][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -4095 desc: EOF
+[2017-5-3 15:16:20:336][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 15:16:37:688][ERROR][http_conn.cc:47][imcore::read_cb]error: -4095 desc: EOF
+[2017-5-3 15:16:37:688][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -4095 desc: EOF
+[2017-5-3 15:16:37:688][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 15:17:3:270][ERROR][http_conn.cc:47][imcore::read_cb]error: -4095 desc: EOF
+[2017-5-3 15:17:3:270][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -4095 desc: EOF
+[2017-5-3 15:17:3:285][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 15:29:42:56][ERROR][http_conn.cc:47][imcore::read_cb]error: -4095 desc: EOF
+[2017-5-3 15:29:42:56][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -4095 desc: EOF
+[2017-5-3 15:29:42:56][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 15:30:45:180][ERROR][http_conn.cc:47][imcore::read_cb]error: -4095 desc: EOF
+[2017-5-3 15:30:45:180][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -4095 desc: EOF
+[2017-5-3 15:30:45:180][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 15:32:27:596][ERROR][http_conn.cc:47][imcore::read_cb]error: -4095 desc: EOF
+[2017-5-3 15:32:27:596][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -4095 desc: EOF
+[2017-5-3 15:32:27:596][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 15:41:56:534][ERROR][http_conn.cc:47][imcore::read_cb]error: -4095 desc: EOF
+[2017-5-3 15:41:56:534][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -4095 desc: EOF
+[2017-5-3 15:41:56:534][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 15:42:24:387][ERROR][http_conn.cc:47][imcore::read_cb]error: -4095 desc: EOF
+[2017-5-3 15:42:24:388][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -4095 desc: EOF
+[2017-5-3 15:42:24:389][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 15:43:35:283][ERROR][http_conn.cc:47][imcore::read_cb]error: -4095 desc: EOF
+[2017-5-3 15:43:35:283][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -4095 desc: EOF
+[2017-5-3 15:43:35:283][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 15:44:44:535][ERROR][http_conn.cc:47][imcore::read_cb]error: -4095 desc: EOF
+[2017-5-3 15:44:44:535][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -4095 desc: EOF
+[2017-5-3 15:44:44:535][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 15:45:59:232][ERROR][http_conn.cc:47][imcore::read_cb]error: -4095 desc: EOF
+[2017-5-3 15:45:59:232][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -4095 desc: EOF
+[2017-5-3 15:45:59:232][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 15:58:4:95][ERROR][http_conn.cc:47][imcore::read_cb]error: -4095 desc: EOF
+[2017-5-3 15:58:4:110][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -4095 desc: EOF
+[2017-5-3 15:58:4:110][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 16:10:54:640][ERROR][http_conn.cc:47][imcore::read_cb]error: -4095 desc: EOF
+[2017-5-3 16:10:54:640][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -4095 desc: EOF
+[2017-5-3 16:10:54:640][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 16:13:8:150][ERROR][http_conn.cc:47][imcore::read_cb]error: -4095 desc: EOF
+[2017-5-3 16:13:8:150][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -4095 desc: EOF
+[2017-5-3 16:13:8:150][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 16:13:43:149][ERROR][http_conn.cc:47][imcore::read_cb]error: -4095 desc: EOF
+[2017-5-3 16:13:43:149][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -4095 desc: EOF
+[2017-5-3 16:13:43:149][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 16:14:9:120][ERROR][http_conn.cc:47][imcore::read_cb]error: -4095 desc: EOF
+[2017-5-3 16:14:9:120][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -4095 desc: EOF
+[2017-5-3 16:14:9:120][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 16:14:19:477][ERROR][http_conn.cc:47][imcore::read_cb]error: -4095 desc: EOF
+[2017-5-3 16:14:19:477][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -4095 desc: EOF
+[2017-5-3 16:14:19:477][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 16:14:49:367][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 16:14:49:367][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 16:14:49:367][ERROR][sso_conn.cc:269][imcore::SSOConn::SendRemained]timeoutreq cmd: openim.pbsdkinit_emp|seq: 3516|now: 16972170|deadline: 16948574
+[2017-5-3 16:15:32:806][ERROR][http_conn.cc:47][imcore::read_cb]error: -4095 desc: EOF
+[2017-5-3 16:15:32:806][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -4095 desc: EOF
+[2017-5-3 16:15:32:821][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 16:16:5:191][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 16:16:5:191][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 16:16:5:191][ERROR][sso_conn.cc:269][imcore::SSOConn::SendRemained]timeoutreq cmd: openim.pbsdkinit_emp|seq: 3383|now: 17048001|deadline: 17023923
+[2017-5-3 16:17:32:426][ERROR][http_conn.cc:47][imcore::read_cb]error: -4095 desc: EOF
+[2017-5-3 16:17:32:426][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -4095 desc: EOF
+[2017-5-3 16:17:32:426][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 16:19:7:523][ERROR][http_conn.cc:47][imcore::read_cb]error: -4095 desc: EOF
+[2017-5-3 16:19:7:523][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -4095 desc: EOF
+[2017-5-3 16:19:7:538][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 16:19:22:8][ERROR][http_conn.cc:47][imcore::read_cb]error: -4095 desc: EOF
+[2017-5-3 16:19:22:8][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -4095 desc: EOF
+[2017-5-3 16:19:22:8][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 16:19:31:967][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 16:19:31:967][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 16:19:31:967][ERROR][sso_conn.cc:269][imcore::SSOConn::SendRemained]timeoutreq cmd: openim.pbsdkinit_emp|seq: 673|now: 17254776|deadline: 17250948
+[2017-5-3 16:21:29:532][ERROR][http_conn.cc:47][imcore::read_cb]error: -4095 desc: EOF
+[2017-5-3 16:21:29:532][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -4095 desc: EOF
+[2017-5-3 16:21:29:532][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 16:22:35:779][ERROR][http_conn.cc:47][imcore::read_cb]error: -4095 desc: EOF
+[2017-5-3 16:22:35:779][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -4095 desc: EOF
+[2017-5-3 16:22:35:779][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 16:23:15:175][ERROR][http_conn.cc:47][imcore::read_cb]error: -4095 desc: EOF
+[2017-5-3 16:23:15:175][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -4095 desc: EOF
+[2017-5-3 16:23:15:175][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 16:23:45:873][ERROR][http_conn.cc:47][imcore::read_cb]error: -4095 desc: EOF
+[2017-5-3 16:23:45:873][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -4095 desc: EOF
+[2017-5-3 16:23:45:873][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 16:29:21:77][ERROR][http_conn.cc:47][imcore::read_cb]error: -4095 desc: EOF
+[2017-5-3 16:29:21:77][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -4095 desc: EOF
+[2017-5-3 16:29:21:77][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 16:31:45:735][ERROR][http_conn.cc:47][imcore::read_cb]error: -4095 desc: EOF
+[2017-5-3 16:31:45:751][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -4095 desc: EOF
+[2017-5-3 16:31:45:798][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 16:32:9:570][ERROR][http_conn.cc:47][imcore::read_cb]error: -4095 desc: EOF
+[2017-5-3 16:32:9:570][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -4095 desc: EOF
+[2017-5-3 16:32:9:570][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 16:32:19:165][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 16:32:19:165][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 16:32:19:165][ERROR][sso_conn.cc:269][imcore::SSOConn::SendRemained]timeoutreq cmd: openim.pbsdkinit_emp|seq: 31323|now: 18021965|deadline: 18019757
+[2017-5-3 16:33:5:663][ERROR][http_conn.cc:47][imcore::read_cb]error: -4095 desc: EOF
+[2017-5-3 16:33:5:663][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -4095 desc: EOF
+[2017-5-3 16:33:5:679][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 16:33:14:431][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-3 16:33:14:431][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-3 16:33:14:431][ERROR][sso_conn.cc:269][imcore::SSOConn::SendRemained]timeoutreq cmd: openim.pbsdkinit_emp|seq: 1313|now: 18077240|deadline: 18077002
+[2017-5-3 16:34:27:55][ERROR][http_conn.cc:47][imcore::read_cb]error: -4095 desc: EOF
+[2017-5-3 16:34:27:55][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -4095 desc: EOF
+[2017-5-3 16:34:27:55][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-3 16:47:55:324][ERROR][http_conn.cc:47][imcore::read_cb]error: -4095 desc: EOF
+[2017-5-3 16:47:55:324][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -4095 desc: EOF
+[2017-5-3 16:47:55:324][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn

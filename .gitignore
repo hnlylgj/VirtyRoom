@@ -1,0 +1,11 @@
+target
+x64
+Debug
+Release
+LGJBAK
+bin
+obj
+*.vs
+*.filters
+*.user
+*.sdf

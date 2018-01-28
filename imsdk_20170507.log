@@ -1,0 +1,86 @@
+[2017-5-7 16:50:30:830][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-7 16:50:34:293][DEBUG][timer_queue.cc:117][imcore::TimerQueue::RunLoop][IMCore]timer runloop: name|ctx_timer_queue fire_time_ms|18446744073294349886
+[2017-5-7 16:50:34:293][DEBUG][timer_queue.cc:77][imcore::TimerQueue::AddTimer][IMCore]add timer: id=report_task
+[2017-5-7 16:50:34:293][INFO][qr_proto.cc:37][imcore::StatBuilder::InitVersion][IMCore]StatBuilder InitVersion:2.5.0-7310
+[2017-5-7 16:50:34:293][INFO][imcore_user_impl.cc:133][imcore::UserImp::InitUser][IMCore]IMCoreCtx init: build-Dec 15 2016...
+[2017-5-7 16:50:34:293][DEBUG][imcore_user_impl.cc:184][imcore::UserImp::InitUser][IMCore]init pic_up_mgr : tinyid=144115199234038363 sdkappid=1400019352
+[2017-5-7 16:50:34:293][DEBUG][timer_queue.cc:77][imcore::TimerQueue::AddTimer][IMCore]add timer: id=lgj1_UpdatePicAddrAndKey
+[2017-5-7 16:50:34:293][DEBUG][timer_queue.cc:117][imcore::TimerQueue::RunLoop][IMCore]timer runloop: name|ctx_timer_queue fire_time_ms|18446744073209749901
+[2017-5-7 16:50:34:325][ERROR][auth.cc:304][imcore::`anonymous-namespace'::<lambda0>::operator ()]Login|4-InitIMCore|Succ|
+[2017-5-7 16:50:34:325][DEBUG][sqlite_store.cc:235][imcore::SqliteMsgStore::UpgradeForOpenDB][IMCore]colName :id
+[2017-5-7 16:50:34:325][DEBUG][sqlite_store.cc:235][imcore::SqliteMsgStore::UpgradeForOpenDB][IMCore]colName :type
+[2017-5-7 16:50:34:325][DEBUG][sqlite_store.cc:235][imcore::SqliteMsgStore::UpgradeForOpenDB][IMCore]colName :sid
+[2017-5-7 16:50:34:325][DEBUG][sqlite_store.cc:235][imcore::SqliteMsgStore::UpgradeForOpenDB][IMCore]colName :msg_unread
+[2017-5-7 16:50:34:325][DEBUG][sqlite_store.cc:235][imcore::SqliteMsgStore::UpgradeForOpenDB][IMCore]colName :active_time
+[2017-5-7 16:50:34:325][DEBUG][sqlite_store.cc:235][imcore::SqliteMsgStore::UpgradeForOpenDB][IMCore]colName :content
+[2017-5-7 16:50:34:325][INFO][sqlite_store.cc:257][imcore::SqliteMsgStore::UpgradeForOpenDB][IMCore]session table has been update before
+[2017-5-7 16:50:34:325][INFO][auth.cc:61][imcore::CreateCacheDic][IMCore]FileCache/ is already exists
+[2017-5-7 16:50:34:325][INFO][sso_conn.cc:400][imcore::SSOConn::Recv][IMCore]CURRENT 2 TIMES CALLBACK! AFTER CALLBACK!
+[2017-5-7 16:50:34:325][DEBUG][qr_task.cc:35][imcore::ReportTask::AddEvent][IMCore]add event: eventId=1, code=0, desc=, start=18446744073207966652, end=18446744073207949933
+[2017-5-7 16:50:34:325][EVENT][msg_manager.cc:896][imcore::MsgManager::DoLoadFromStore][IMCore]read msgs to cache begin
+[2017-5-7 16:50:34:325][EVENT][msg_manager.cc:911][imcore::MsgManager::DoLoadFromStore][IMCore]read msgs to cache end
+[2017-5-7 16:50:34:325][INFO][imcore_user_impl.cc:209][imcore::`anonymous-namespace'::<lambda2>::operator ()][IMCore]IMCoreCtx init done
+[2017-5-7 16:50:34:325][DEBUG][group_assistant.cc:59][imcore::GroupAssistant::Init][IMCore]GroupAssistant init begin, isEnabled: 0, isInited: 0
+[2017-5-7 16:50:34:325][DEBUG][group_assistant.cc:62][imcore::GroupAssistant::Init][IMCore]GroupAssistant init end
+[2017-5-7 16:50:34:325][DEBUG][sso_task.cc:42][imcore::SSOTask::run][IMCore]sso send cmd:IMBDH.GetKeyAndIp|req:0a12313434313135313939323334303338333633108ea2a6dc081a5208231098b3ca9b051a48a13d9cdc79bea93c2dc467e928ff20e655810f6b0f799c6b69d2ec4fdd11aa1c1bdacfb2c09f21bbdd235b3fdfeac69d5cca7f14c3944d9149e28cb4f7d9ad0d3a3cc7a7b43af69f200328012802280430f3f08a8002
+[2017-5-7 16:50:34:325][INFO][sso_conn.cc:324][imcore::SSOConn::Send][IMCore]insert to wait_queue_|cmd:IMBDH.GetKeyAndIp|queue size:1
+[2017-5-7 16:50:34:325][INFO][sso_conn.cc:324][imcore::SSOConn::Send][IMCore]insert to wait_queue_|cmd:im_open_status.stat_hello|queue size:2
+[2017-5-7 16:50:34:325][INFO][sso_conn.cc:294][imcore::SSOConn::SendRemained][IMCore]add req to timeout queue:IMBDH.GetKeyAndIp|seq:33484428328064316|daedline:33463636391362560|now:21474836480000|timeout:15568758725714903040
+[2017-5-7 16:50:34:325][INFO][sso_data.cc:355][imcore::SSOData::serialize][IMCore]uin:144115199234038363 servicecmd:IMBDH.GetKeyAndIp lower:imbdh.getkeyandip
+[2017-5-7 16:50:34:325][INFO][sso_conn.cc:310][imcore::SSOConn::SendRemained][IMCore]send cmd:IMBDH.GetKeyAndIp|seq:21820
+[2017-5-7 16:50:34:325][INFO][sso_conn.cc:294][imcore::SSOConn::SendRemained][IMCore]add req to timeout queue:im_open_status.stat_hello|seq:33485111227864381|daedline:33463636391362560|now:21474836480000|timeout:15568758725714903040
+[2017-5-7 16:50:34:325][INFO][sso_data.cc:355][imcore::SSOData::serialize][IMCore]uin:144115199234038363 servicecmd:im_open_status.stat_hello lower:im_open_status.stat_hello
+[2017-5-7 16:50:34:325][INFO][sso_conn.cc:310][imcore::SSOConn::SendRemained][IMCore]send cmd:im_open_status.stat_hello|seq:21821
+[2017-5-7 16:50:34:325][INFO][imcore_env.cc:211][imcore::IMCoreInitCallBack::Done][IMCore]imcore init succ
+[2017-5-7 16:50:34:325][INFO][tim_int.cc:439][imcore::TIMIntManager::Init][IMCore]TIMIntManager::Init
+[2017-5-7 16:50:34:387][INFO][ctx.cc:347][imcore::`anonymous-namespace'::<lambda0>::operator ()][IMCore]ClearLog begin! this:5A4B4180
+[2017-5-7 16:50:34:387][INFO][sso_conn.cc:51][imcore::read_cb][IMCore]read callback receive data len:536
+[2017-5-7 16:50:34:387][DEBUG][sso_conn.cc:601][imcore::SSOConn::UpdateLastPkgTime][IMCore]UpdateLastPkgTime: 7791360
+[2017-5-7 16:50:34:387][INFO][sso_conn.cc:388][imcore::SSOConn::Recv][IMCore]recv pkg|cmd:IMBDH.GetKeyAndIp|seq:21820
+[2017-5-7 16:50:34:387][INFO][sso_conn.cc:398][imcore::SSOConn::Recv][IMCore]CURRENT 3 TIMES CALLBACK! BEFORE CALLBACK!
+[2017-5-7 16:50:34:387][DEBUG][sso_task.cc:48][imcore::`anonymous-namespace'::<lambda0>::operator ()][IMCore]sso recv cmd:IMBDH.GetKeyAndIp|rsp:0a38c37d10a052e5ef683c39f00363d8a23c7c36bb747c81850c520582344c39dcb1503a000e47a13e4c0f4b18fc5a714fabb81387cf659e7251121061556a654438634633476734776e46791a87010804120b080115b703fd381880a001120b080115b703fd4a1880a001120b080115b4a3161d1880a001120b080115b4a316191880a001224f080112453043020101043c303a02010102010102040c331e5202037a1db9020438fd03b7020438fd03b702037a1afd02041d16a3b402041916a3b402045916c8cb02045125d1dd040018cb91dbc8051a4e0802120b080115b73d26f51880a001120b0801150ed78c351880a001120b080115b739300b1880a001120b080115b7e877d21880a001120b080115dcf9f3341880a0011a09702e717069632e636e1a4e0803120b080115b73d26f51880a001120b0801150ed78c351880a001120b080115b739300b1880a001120b080115b7e877d21880a001120b080115dcf9f3341880a0011a09702e717069632e636e1a450801120b080115b73d26cf189fa002120b080115b73d26cf189fa002120b0801153d97ba26189fa002120b0801153d97ba26189fa0021a0d75702e6264682e71712e636f6d
+[2017-5-7 16:50:34:387][INFO][sso_conn.cc:400][imcore::SSOConn::Recv][IMCore]CURRENT 3 TIMES CALLBACK! AFTER CALLBACK!
+[2017-5-7 16:50:34:387][INFO][group_manager_task.cc:812][imcore::GroupSyncTask::run][IMCore]group storage not enabled
+[2017-5-7 16:50:34:387][DEBUG][sso_task.cc:42][imcore::SSOTask::run][IMCore]sso send cmd:Profile.PortraitGet_PB|req:08dbb4d1c8a98080800210dbb4d1c8a9808080021a135461675f50726f66696c655f494d5f4e69636b1a185461675f50726f66696c655f494d5f416c6c6f77547970651a145461675f50726f66696c655f494d5f496d6167651a1c5461675f50726f66696c655f494d5f53656c665369676e61747572651a155461675f50726f66696c655f494d5f47656e6465721a175461675f50726f66696c655f494d5f42697274684461791a175461675f50726f66696c655f494d5f4c6f636174696f6e1a175461675f50726f66696c655f494d5f4c616e6775616765
+[2017-5-7 16:50:34:387][INFO][sso_conn.cc:324][imcore::SSOConn::Send][IMCore]insert to wait_queue_|cmd:Profile.PortraitGet_PB|queue size:1
+[2017-5-7 16:50:34:387][INFO][sso_conn.cc:294][imcore::SSOConn::SendRemained][IMCore]add req to timeout queue:Profile.PortraitGet_PB|seq:33485111227864382|daedline:33463636391362560|now:21474836480000|timeout:15568758828794118144
+[2017-5-7 16:50:34:387][INFO][sso_data.cc:355][imcore::SSOData::serialize][IMCore]uin:144115199234038363 servicecmd:Profile.PortraitGet_PB lower:profile.portraitget_pb
+[2017-5-7 16:50:34:387][INFO][sso_conn.cc:310][imcore::SSOConn::SendRemained][IMCore]send cmd:Profile.PortraitGet_PB|seq:21822
+[2017-5-7 16:50:34:387][DEBUG][sso_task.cc:42][imcore::SSOTask::run][IMCore]sso send cmd:im_open_msg.msg_sync|req:0a1210cf8fb5c805288ae0a7dc08388eeac5d80d100020002801
+[2017-5-7 16:50:34:387][INFO][sso_conn.cc:324][imcore::SSOConn::Send][IMCore]insert to wait_queue_|cmd:im_open_msg.msg_sync|queue size:1
+[2017-5-7 16:50:34:387][INFO][sso_conn.cc:294][imcore::SSOConn::SendRemained][IMCore]add req to timeout queue:im_open_msg.msg_sync|seq:33485111227864383|daedline:33463636391362560|now:21474836480000|timeout:15568758828794118144
+[2017-5-7 16:50:34:387][INFO][sso_data.cc:355][imcore::SSOData::serialize][IMCore]uin:144115199234038363 servicecmd:im_open_msg.msg_sync lower:im_open_msg.msg_sync
+[2017-5-7 16:50:34:387][INFO][sso_conn.cc:310][imcore::SSOConn::SendRemained][IMCore]send cmd:im_open_msg.msg_sync|seq:21823
+[2017-5-7 16:50:34:387][DEBUG][sso_task.cc:42][imcore::SSOTask::run][IMCore]sso send cmd:group_open_tcp_svc.get_group_list|req:0801120f0a0d0a0028013801a2010418002001
+[2017-5-7 16:50:34:387][INFO][sso_conn.cc:324][imcore::SSOConn::Send][IMCore]insert to wait_queue_|cmd:group_open_tcp_svc.get_group_list|queue size:1
+[2017-5-7 16:50:34:387][INFO][sso_conn.cc:294][imcore::SSOConn::SendRemained][IMCore]add req to timeout queue:group_open_tcp_svc.get_group_list|seq:33485111227864384|daedline:33463636391362560|now:21474836480000|timeout:15568758828794118144
+[2017-5-7 16:50:34:387][INFO][sso_data.cc:355][imcore::SSOData::serialize][IMCore]uin:144115199234038363 servicecmd:group_open_tcp_svc.get_group_list lower:group_open_tcp_svc.get_group_list
+[2017-5-7 16:50:34:387][INFO][sso_conn.cc:310][imcore::SSOConn::SendRemained][IMCore]send cmd:group_open_tcp_svc.get_group_list|seq:21824
+[2017-5-7 16:50:34:387][EVENT][sessionConf.cpp:48][openbdh::SessionConf::setBdhSessionInfo][IMCore][bdh]setSessionInfo, ticket:56, key:aUjeD8cF3Gg4wnFy
+
+[2017-5-7 16:50:34:387][EVENT][serverConf.cpp:133][openbdh::ServerConf::setCommFileSrvAddr][IMCore][bdh]setCommFileSrvAddr:183.3.253.56
+
+[2017-5-7 16:50:34:387][EVENT][serverConf.cpp:133][openbdh::ServerConf::setCommFileSrvAddr][IMCore][bdh]setCommFileSrvAddr:183.3.253.74
+
+[2017-5-7 16:50:34:387][EVENT][serverConf.cpp:133][openbdh::ServerConf::setCommFileSrvAddr][IMCore][bdh]setCommFileSrvAddr:180.163.22.29
+
+[2017-5-7 16:50:34:387][EVENT][serverConf.cpp:133][openbdh::ServerConf::setCommFileSrvAddr][IMCore][bdh]setCommFileSrvAddr:180.163.22.25
+
+[2017-5-7 16:50:34:387][EVENT][serverConf.cpp:150][openbdh::ServerConf::setCommFileAuthKey][IMCore][bdh]setCommFileAuthKey, authkey:69, expiretime:1494665419, ver:1
+
+[2017-5-7 16:50:34:387][EVENT][serverConf.cpp:66][openbdh::ServerConf::setServerAddr][IMCore][bdh]setServerAddr:183.61.38.207
+
+[2017-5-7 16:50:34:387][EVENT][serverConf.cpp:66][openbdh::ServerConf::setServerAddr][IMCore][bdh]setServerAddr:183.61.38.207
+
+[2017-5-7 16:50:34:387][EVENT][serverConf.cpp:66][openbdh::ServerConf::setServerAddr][IMCore][bdh]setServerAddr:61.151.186.38
+
+[2017-5-7 16:50:34:387][EVENT][serverConf.cpp:66][openbdh::ServerConf::setServerAddr][IMCore][bdh]setServerAddr:61.151.186.38
+
+[2017-5-7 16:50:34:387][EVENT][serverConf.cpp:73][openbdh::ServerConf::setServerAddr][IMCore][bdh]setServerAddr domain:up.bdh.qq.com
+
+[2017-5-7 16:50:34:387][INFO][ctx.cc:404][imcore::`anonymous-namespace'::<lambda0>::operator ()][IMCore]ClearLog end!
+[2017-5-7 16:50:34:403][INFO][sso_conn.cc:51][imcore::read_cb][IMCore]read callback receive data len:128
+[2017-5-7 16:50:34:403][DEBUG][sso_conn.cc:601][imcore::SSOConn::UpdateLastPkgTime][IMCore]UpdateLastPkgTime: 7791418
+[2017-5-7 16:50:34:403][INFO][sso_conn.cc:388][imcore::SSOConn::Recv][IMCore]recv pkg|cmd:im_open_status.stat_hello|seq:21821
+[2017-5-7 16:50:34:403][INFO][sso_conn.cc:398][imcore::SSOConn::Recv][IMCore]CURRENT 4 TIMES CALLBACK! BEFORE CALLBACK!
+[2017-5-7 16:50:34:403][INFO][sso_conn.cc:400][imcore::SSOConn::Recv][IMCore]CURRENT 4 TIMES CALLBACK! AFTER CALLBACK!

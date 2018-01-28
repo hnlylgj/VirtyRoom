@@ -1,0 +1,258 @@
+[2017-5-4 14:13:15:58][ERROR][http_conn.cc:106][imcore::on_resolved]error: -3008 desc: EAI_NONAME
+[2017-5-4 14:13:15:105][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -3008 desc: EAI_NONAME
+[2017-5-4 14:13:15:105][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-4 14:13:51:998][ERROR][http_conn.cc:106][imcore::on_resolved]error: -3008 desc: EAI_NONAME
+[2017-5-4 14:13:51:998][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -3008 desc: EAI_NONAME
+[2017-5-4 14:13:51:998][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-4 14:15:9:657][ERROR][http_conn.cc:106][imcore::on_resolved]error: -3008 desc: EAI_NONAME
+[2017-5-4 14:15:9:657][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -3008 desc: EAI_NONAME
+[2017-5-4 14:15:9:657][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-4 14:20:30:955][ERROR][http_conn.cc:106][imcore::on_resolved]error: -3008 desc: EAI_NONAME
+[2017-5-4 14:20:30:955][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -3008 desc: EAI_NONAME
+[2017-5-4 14:20:30:955][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-4 14:22:58:143][ERROR][http_conn.cc:106][imcore::on_resolved]error: -3008 desc: EAI_NONAME
+[2017-5-4 14:22:58:143][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -3008 desc: EAI_NONAME
+[2017-5-4 14:22:58:143][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-4 14:43:18:859][ERROR][http_conn.cc:106][imcore::on_resolved]error: -3008 desc: EAI_NONAME
+[2017-5-4 14:43:18:859][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -3008 desc: EAI_NONAME
+[2017-5-4 14:43:18:859][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-4 14:43:43:678][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 14:43:43:678][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 14:43:43:678][ERROR][sso_conn.cc:269][imcore::SSOConn::SendRemained]timeoutreq cmd: openim.pbsdkinit_emp|seq: 18000|now: 8025481|deadline: 8006830
+[2017-5-4 14:43:43:678][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 14:51:13:436][ERROR][http_conn.cc:106][imcore::on_resolved]error: -3008 desc: EAI_NONAME
+[2017-5-4 14:51:13:436][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -3008 desc: EAI_NONAME
+[2017-5-4 14:51:13:436][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-4 14:51:42:202][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 14:51:42:218][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 14:51:42:218][ERROR][sso_conn.cc:269][imcore::SSOConn::SendRemained]timeoutreq cmd: openim.pbsdkinit_emp|seq: 24723|now: 8504016|deadline: 8481738
+[2017-5-4 14:51:42:218][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 14:53:6:393][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 14:53:6:393][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 14:53:6:393][ERROR][sso_conn.cc:269][imcore::SSOConn::SendRemained]timeoutreq cmd: openim.pbsdkinit_emp|seq: 24724|now: 8588201|deadline: 8544684
+[2017-5-4 14:53:22:523][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:3:48:463][ERROR][http_conn.cc:106][imcore::on_resolved]error: -3008 desc: EAI_NONAME
+[2017-5-4 15:3:48:463][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -3008 desc: EAI_NONAME
+[2017-5-4 15:3:48:463][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-4 15:3:58:674][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:3:58:674][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:3:58:674][ERROR][sso_conn.cc:269][imcore::SSOConn::SendRemained]timeoutreq cmd: openim.pbsdkinit_emp|seq: 23449|now: 9240475|deadline: 9236768
+[2017-5-4 15:3:58:674][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:4:26:520][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:4:26:520][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:4:26:551][ERROR][sso_conn.cc:269][imcore::SSOConn::SendRemained]timeoutreq cmd: openim.pbsdkinit_emp|seq: 23450|now: 9268346|deadline: 9267910
+[2017-5-4 15:4:26:551][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:4:45:84][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:4:45:84][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:4:45:84][ERROR][sso_conn.cc:269][imcore::SSOConn::SendRemained]timeoutreq cmd: openim.pbsdkinit_emp|seq: 23451|now: 9286883|deadline: 9280108
+[2017-5-4 15:4:45:84][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:5:24:490][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:5:24:490][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:5:24:490][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:5:24:615][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:5:24:615][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:5:24:615][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:5:24:739][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:5:24:739][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:5:24:739][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:5:24:864][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:5:24:864][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:5:24:864][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:5:25:5][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:5:25:5][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:5:25:5][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:5:25:129][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:5:25:129][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:5:25:129][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:5:25:254][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:5:25:254][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:5:25:254][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:5:25:379][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:5:25:379][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:5:25:379][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:5:25:504][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:5:25:504][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:5:25:504][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:5:25:629][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:5:25:629][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:5:25:629][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:5:25:753][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:5:25:753][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:5:25:753][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:5:25:878][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:5:25:878][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:5:25:878][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:5:26:3][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:5:26:3][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:5:26:3][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:5:26:128][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:5:26:128][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:5:26:128][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:5:26:253][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:5:26:253][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:5:26:253][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:5:26:377][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:5:26:377][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:5:26:377][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:5:26:502][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:5:26:502][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:5:26:502][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:5:26:627][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:5:26:627][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:5:26:627][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:5:26:752][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:5:26:752][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:5:26:752][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:5:26:877][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:5:26:877][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:5:26:877][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:5:27:1][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:5:27:1][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:5:27:1][ERROR][sso_conn.cc:269][imcore::SSOConn::SendRemained]timeoutreq cmd: openim.pbsdkinit_emp|seq: 23452|now: 9328801|deadline: 9328785
+[2017-5-4 15:5:27:1][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:8:56:12][ERROR][http_conn.cc:106][imcore::on_resolved]error: -3008 desc: EAI_NONAME
+[2017-5-4 15:8:56:12][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -3008 desc: EAI_NONAME
+[2017-5-4 15:8:56:12][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-4 15:9:20:738][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:9:20:754][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:9:20:754][ERROR][sso_conn.cc:269][imcore::SSOConn::SendRemained]timeoutreq cmd: openim.pbsdkinit_emp|seq: 7414|now: 9562564|deadline: 9555909
+[2017-5-4 15:9:20:769][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:10:14:683][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:10:14:683][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:10:14:683][ERROR][sso_conn.cc:269][imcore::SSOConn::SendRemained]timeoutreq cmd: openim.pbsdkinit_emp|seq: 7415|now: 9616482|deadline: 9575296
+[2017-5-4 15:10:14:683][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:13:13:505][ERROR][http_conn.cc:106][imcore::on_resolved]error: -3008 desc: EAI_NONAME
+[2017-5-4 15:13:13:505][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -3008 desc: EAI_NONAME
+[2017-5-4 15:13:13:505][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-4 15:13:58:192][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:13:58:192][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:13:58:192][ERROR][sso_conn.cc:269][imcore::SSOConn::SendRemained]timeoutreq cmd: openim.pbsdkinit_emp|seq: 4597|now: 9840000|deadline: 9807652
+[2017-5-4 15:13:58:192][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:14:32:855][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:14:32:855][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:14:32:855][ERROR][sso_conn.cc:269][imcore::SSOConn::SendRemained]timeoutreq cmd: openim.pbsdkinit_emp|seq: 4598|now: 9874672|deadline: 9848444
+[2017-5-4 15:14:32:871][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:18:1:813][ERROR][http_conn.cc:106][imcore::on_resolved]error: -3008 desc: EAI_NONAME
+[2017-5-4 15:18:1:813][ERROR][sso_conn.cc:665][imcore::`anonymous-namespace'::<lambda0>::operator ()]httpreq rc: -3008 desc: EAI_NONAME
+[2017-5-4 15:18:1:813][ERROR][http_conn.cc:211][imcore::HttpConn::~HttpConn]dtor: httpconn
+[2017-5-4 15:18:12:31][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:18:12:31][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:18:12:31][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:18:12:156][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:18:12:156][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:18:12:156][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:18:12:281][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:18:12:281][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:18:12:281][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:18:12:405][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:18:12:405][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:18:12:405][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:18:12:530][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:18:12:530][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:18:12:530][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:18:12:655][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:18:12:655][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:18:12:655][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:18:12:780][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:18:12:780][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:18:12:780][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:18:12:905][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:18:12:905][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:18:12:905][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:18:13:29][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:18:13:29][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:18:13:29][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:18:13:154][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:18:13:154][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:18:13:154][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:18:13:279][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:18:13:279][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:18:13:279][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:18:13:404][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:18:13:404][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:18:13:404][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:18:13:529][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:18:13:529][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:18:13:529][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:18:13:653][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:18:13:653][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:18:13:653][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:18:13:778][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:18:13:778][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:18:13:778][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:18:13:903][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:18:13:903][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:18:13:903][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:18:14:28][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:18:14:28][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:18:14:28][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:18:14:153][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:18:14:153][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:18:14:153][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:18:14:277][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:18:14:277][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:18:14:277][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:18:14:402][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:18:14:402][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:18:14:402][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:18:14:527][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:18:14:527][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:18:14:527][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:18:14:652][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:18:14:652][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:18:14:652][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:18:14:777][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:18:14:777][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:18:14:777][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:18:14:901][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:18:14:901][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:18:14:901][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:18:15:26][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:18:15:26][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:18:15:26][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:18:15:151][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:18:15:151][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:18:15:151][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:18:15:276][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:18:15:276][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:18:15:276][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:18:15:401][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:18:15:401][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:18:15:401][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:18:15:525][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:18:15:525][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:18:15:525][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:18:15:650][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:18:15:650][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:18:15:650][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:18:15:775][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:18:15:775][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:18:15:775][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:18:15:900][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:18:15:900][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:18:15:900][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:18:16:25][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:18:16:25][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:18:16:25][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:18:16:149][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:18:16:149][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:18:16:149][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:18:16:274][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:18:16:274][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:18:16:274][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:18:16:399][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:18:16:399][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:18:16:415][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:18:16:539][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:18:16:539][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:18:16:539][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:18:16:664][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:18:16:664][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:18:16:664][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:18:16:789][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:18:16:789][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:18:16:789][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
+[2017-5-4 15:18:16:914][ERROR][config_store.cc:132][imcore::ConfigStore::GetSsoAddrList]reset idx
+[2017-5-4 15:18:16:914][ERROR][config_store.cc:204][imcore::ConfigStore::GetDefaultSsoAddrList]use default sso addr list
+[2017-5-4 15:18:16:914][ERROR][sso_conn.cc:269][imcore::SSOConn::SendRemained]timeoutreq cmd: openim.pbsdkinit_emp|seq: 7947|now: 10098718|deadline: 10098679
+[2017-5-4 15:18:16:914][ERROR][sso_conn.cc:80][imcore::conn_cb]connect error: -4062|network is unreachable
